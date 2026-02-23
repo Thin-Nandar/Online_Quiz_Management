@@ -1,0 +1,19 @@
+Which of the following is not a Java keyword?|static|Boolean|public|class|B
+What is the default value of a boolean variable in Java?|true|false|0|null|B
+Which of the following data types is used to store decimal numbers?|int|char|double|boolean|C
+Which of the following is the correct syntax to create an object of class Car?|Car c = Car() ;|Car c = new Car() ;|Car c = Car.new() ;|new Car c ;|B
+Which of the following loops is guaranteed to execute at least once?|for|while|do-while|foreach|C
+Which access modifier makes a member visible to all classes in all packages?|private|default|protected|public|D
+System.out.println(5 + "5");|10|5 5|55|Error|C
+Which of the following exceptions is checked?|ArrayIndexOutOfBoundsException|NullPointerException|IOException|ArithmeticException|C
+What is the parent class of all classes in Java?|Object|Class|String|System|A
+Which interface does HashMap implement?|Set|Map|List|Queue|B
+Which of the following cannot be subclassed?|class with static methods|abstract class|interface|final class|D
+Which collection allows duplicate elements?|Set|HashSet|ArrayList|TreeSet|C
+What is the size of int in Java?|2 bytes|4 bytes|8 bytes|Depend on OS|B
+Which class is used for reading characters from a file?|FileReader|FileInputStream|BufferedOutputStream|Scanner|A
+Which class is the superclass of all exceptions except errors?|Throwable|Exception|RuntimeException|Error|B
+Which keyword is used to access the parent class constructor?|this|super|extends|base|B
+Which of the following methods belongs to Object class?|toString( )|parseInt( )|main( )|start( )|B
+Which of the following cannot be serialized?|Object|String|ArrayList|HashMap|A
+5 + 5 = ?|3|4|10|6|C
